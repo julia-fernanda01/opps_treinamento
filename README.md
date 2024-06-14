@@ -23,3 +23,7 @@ history mostra historicos de comandos do terminal
 ```
 
 ## Ambiente virtual (conda)
+
+```
+conda activate env_opps
+```
